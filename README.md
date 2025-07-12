@@ -29,7 +29,6 @@ gcc main.c algoritmo.c -o coin_solver -lm
 
 ▶️ How to Run
 bash
-Copiar código
 ./coin_solver
 Follow the menu to choose:
 
